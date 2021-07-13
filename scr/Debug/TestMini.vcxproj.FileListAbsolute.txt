@@ -1,0 +1,2 @@
+D:\Projekty_VS\MiniProjekt2.1\TestMini\Debug\TestMini.exe
+D:\Projekty_VS\MiniProjekt2.1\TestMini\Debug\TestMini.pdb
